@@ -1,1 +1,0 @@
-# pract_blog_for_eval
